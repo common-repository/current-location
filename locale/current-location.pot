@@ -1,0 +1,274 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/current-location\n"
+"POT-Creation-Date: 2011-10-18 17:58:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cl-widget.php:44
+msgid "Title:"
+msgstr ""
+
+#: cl-widget.php:49 cl-post.php:35
+msgid "Display Date"
+msgstr ""
+
+#: cl-widget.php:53
+msgid "Display Static Map"
+msgstr ""
+
+#: cl-widget.php:57 cl-options.php:283
+msgid "Display Map - Little Google Map"
+msgstr ""
+
+#: cl-widget.php:61 cl-options.php:279 cl-post.php:39
+msgid "Display Reverse Geocode (Usually City)"
+msgstr ""
+
+#: cl-widget.php:65 cl-options.php:281 cl-post.php:38
+msgid "Display Accuracy In Meters"
+msgstr ""
+
+#: cl-widget.php:69 cl-options.php:280 cl-post.php:37
+msgid "Display Coordinates"
+msgstr ""
+
+#: cl-options.php:110
+msgid "Timezone not set. Go to Settings > General"
+msgstr ""
+
+#: cl-options.php:135
+msgid "Settings"
+msgstr ""
+
+#: cl-options.php:136
+msgid ""
+"<ul><li>%s: Re-styled the options page. Easier and faster.</li><li>%s: Added "
+"the ability to edit a post without changing the Current Location Information."
+"</li><li>%s: Added a TinyMCE Button to the Post/Page Editor.</li></ul>"
+msgstr ""
+
+#: cl-options.php:137
+msgid "Settings Saved."
+msgstr ""
+
+#: cl-options.php:143 cl-options.php:152
+msgid "Field"
+msgstr ""
+
+#: cl-options.php:144 cl-options.php:153
+msgid "Value"
+msgstr ""
+
+#: cl-options.php:149
+msgid "Save Changes"
+msgstr ""
+
+#: cl-options.php:158
+msgid "User ID"
+msgstr ""
+
+#: cl-options.php:163
+msgid "Get your User ID from here"
+msgstr ""
+
+#: cl-options.php:163
+msgid "Google Badge System"
+msgstr ""
+
+#: cl-options.php:163
+msgid "Its is the ID number after"
+msgstr ""
+
+#: cl-options.php:163
+msgid "Example"
+msgstr ""
+
+#: cl-options.php:163
+msgid "User ID is"
+msgstr ""
+
+#: cl-options.php:166
+msgid "Date Format"
+msgstr ""
+
+#: cl-options.php:171
+msgid "Default Format is"
+msgstr ""
+
+#: cl-options.php:171
+msgid "Use the"
+msgstr ""
+
+#: cl-options.php:171
+msgid "page to learn how to do different formating."
+msgstr ""
+
+#: cl-options.php:171
+msgid "Current Timezone"
+msgstr ""
+
+#: cl-options.php:171
+msgid "Change the Timezone here."
+msgstr ""
+
+#: cl-options.php:174
+msgid "Vacation Text"
+msgstr ""
+
+#: cl-options.php:179
+msgid ""
+"Sometimes you don't want to update your location (example: vacation). Check "
+"this box below and manually enter a location or message."
+msgstr ""
+
+#: cl-options.php:182
+msgid "Map/Static Width"
+msgstr ""
+
+#: cl-options.php:187 cl-options.php:195 cl-options.php:208
+msgid "Default Setting is"
+msgstr ""
+
+#: cl-options.php:190
+msgid "Map/Static Height"
+msgstr ""
+
+#: cl-options.php:198
+msgid "Map/Static Type"
+msgstr ""
+
+#: cl-options.php:200
+msgid "Road"
+msgstr ""
+
+#: cl-options.php:201
+msgid "Terrain"
+msgstr ""
+
+#: cl-options.php:202
+msgid "Hybrid"
+msgstr ""
+
+#: cl-options.php:203
+msgid "Satellite"
+msgstr ""
+
+#: cl-options.php:211
+msgid "Map/Static Zoom Level"
+msgstr ""
+
+#: cl-options.php:217
+msgid "Continent"
+msgstr ""
+
+#: cl-options.php:219
+msgid "Country"
+msgstr ""
+
+#: cl-options.php:221
+msgid "Region"
+msgstr ""
+
+#: cl-options.php:223
+msgid "City"
+msgstr ""
+
+#: cl-options.php:225
+msgid "Very Close"
+msgstr ""
+
+#: cl-options.php:247
+msgid ""
+"Default Setting is: <strong>10</strong>. Please note, not all Zoom Levels "
+"work with both Static Images and iframes. Find a zoom that fits you best."
+msgstr ""
+
+#: cl-options.php:275
+msgid "Examples of how to use"
+msgstr ""
+
+#: cl-options.php:276
+msgid "How to use the Plugin?"
+msgstr ""
+
+#: cl-options.php:277
+msgid ""
+"Use this in your template to display your current location: <code>&lt;?php "
+"echo display_current_location(); ?&gt;</code>You can choose what to display "
+"or by default it will just display City Level. You can pass any of these and "
+"they will display in that order."
+msgstr ""
+
+#: cl-options.php:282
+msgid "Display Last Updated"
+msgstr ""
+
+#: cl-options.php:284
+msgid "Display Static Map - Without Picture Marker"
+msgstr ""
+
+#: cl-options.php:286
+msgid ""
+"Note: To display your current location in a post, use the Current Location "
+"Options in the new post screen."
+msgstr ""
+
+#: cl-options.php:292
+msgid "Example of the Outputs"
+msgstr ""
+
+#: cl-options.php:294
+msgid "Widget Access"
+msgstr ""
+
+#: cl-options.php:295
+msgid "would output this: Nashville, TN, USA"
+msgstr ""
+
+#: cl-options.php:296
+msgid "would output this: Nashville, TN, USA<br />2253 m"
+msgstr ""
+
+#: cl-options.php:297
+msgid ""
+"would output this: Nashville, TN, USA<br/>Jun 12, 2009 2:34 am<br />-"
+"86.682559, 36.085679<br />2253 m"
+msgstr ""
+
+#: cl-function.php:45 cl-function.php:121
+msgid "User ID incorrect. Make sure you entered it correctly."
+msgstr ""
+
+#: cl-post.php:25
+msgid ""
+"&laquo;You didn't select any Current Location Information to Display. Edit "
+"your Post.&raquo;"
+msgstr ""
+
+#: cl-post.php:36
+msgid "Display Static Image"
+msgstr ""
+
+#: cl-post.php:80
+msgid "Updated Static Map"
+msgstr ""
+
+#: cl-post.php:81
+msgid "Saved Static Map"
+msgstr ""
+
+#: cl-post.php:82 cl-post.php:97
+msgid "Remove saved value"
+msgstr ""
+
+#: cl-post.php:95
+msgid "Updated Location"
+msgstr ""
